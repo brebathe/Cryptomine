@@ -1,3 +1,5 @@
+# Not started, I'll start it later today or tomorrow.
+
 # Mastermine
 A fully automated strip mining network for ComputerCraft turtles!
 
@@ -6,7 +8,7 @@ Here's all the code for anyone who is interested! Check out the tutorial below f
 Also, here are steps for a quick install via pastebin:
 
 1. Place your advanced computer next to a disk drive with a blank disk in.
-2. Run `pastebin get CtcSGkpc mastermine.lua`
+2. Run `pastebin get CtcSGkpc mastermine.lua` < Installs normal mastermine
 3. Run `mastermine disk`
 4. Run `disk/hub.lua`
 
